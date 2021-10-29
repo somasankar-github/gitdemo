@@ -1,0 +1,22 @@
+this is line one
+this is line2
+:wq
+:wq
+q!
+:wq
+:q!
+:wq
+q
+[A[[A[A[A[A[A[A[A[C[C[C[
+
+
+
+
+
+
+
+
+
+
+
+
